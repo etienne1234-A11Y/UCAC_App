@@ -35,8 +35,8 @@ Thumbs.db
 *.tmp
 .cache/
 
-# Claude Code memory (optional - décommentez si vous voulez ignorer)
-# .claude/
+# Claude Code memory
+.claude/
 
 # Output files
 output/
